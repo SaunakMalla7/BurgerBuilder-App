@@ -1,0 +1,11 @@
+/** Sidebar **/
+
+.list-group-item.active a {
+    color: #FFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.list-group-item.active a:hover {
+    text-decoration: none;
+}

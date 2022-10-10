@@ -1,0 +1,43 @@
+.dashboard{
+    background: #212020;
+    min-height: 90vh;
+    padding-top: 93px;
+    display: flex;
+    padding: 5rem;
+}
+
+.welcome{
+    font-size: 70px;
+     font-weight: 600;
+     color: #fff;
+     line-height: 70px;
+     letter-spacing: -2px;
+}
+.left{
+    width:  50%;
+}
+.detail{
+    font-size: 28px;
+    color: #999;
+    line-height: normal;
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-right: 30px;
+}
+.slider_image img {
+    height: 30rem;
+}
+.Order_button{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    min-width: 150px;
+    border: solid #fff 1px;
+    float: left;
+    text-align: center;
+    min-height: 50px;
+    line-height: 50px;
+    margin-top: 20px;
+    text-decoration: none;
+}
